@@ -2,7 +2,15 @@
 
 ![veda](/src/img/boat3.jpg)
 
-The mission of VEDA is to help companies and individuals to shift into a next consciousness level and bring the material and the spiritual world together. We believe that the more conscious people become the more people will stand ing their power, follow their own intuition and live their life purpose.
+## THE MISSION OF VEDA 
+
+VEDA helps companies and individuals to shift into a next consciousness level and bring the material and the spiritual world together.
+<br/>
+
+We believe that the more conscious people become the more people will stand ing their power, follow their own intuition and live their life purpose.
+
+<br/>
+<br/>
 
 ## CURRENT MAIN ACTIVITIES
 
