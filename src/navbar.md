@@ -7,7 +7,6 @@
     - [Veda1](veda1)
     - [Veda2](veda2)
     - [Veda3](veda3)
-    - [Veda4](veda4)
 - [Trip](trip)
     - [Activities](activies)
     - [Sessions](presentations)
