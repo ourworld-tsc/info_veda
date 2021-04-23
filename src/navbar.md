@@ -1,6 +1,8 @@
-- Page
-  - [subpage](include or link)
-- Page2
-  - [subpage](include or link)
-- Page3
-  - [subpage](include or link)
+- [Home](readme)
+- Boats
+  - [Veda1](include or link)
+  - [Veda2]
+  - [Veda3]
+  - [Veda4]
+- Crew
+  - [team](include or link)
