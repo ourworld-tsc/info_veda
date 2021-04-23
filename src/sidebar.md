@@ -1,4 +1,3 @@
-- [Home](readme)
 - [Veda](veda)
     - [What is Veda](veda_what)
     - [Philosophy](philosophy)
