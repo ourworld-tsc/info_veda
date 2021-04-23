@@ -15,6 +15,6 @@
         - [Co-Working](co_working)
     - [Sessions](presentations)
     - [Temples](temples)
-- [Team](funding:team)
+- [Team](team)
 
 

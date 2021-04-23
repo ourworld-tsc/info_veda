@@ -49,13 +49,8 @@ As the Michelin star chef, Dave has always been very conscious about food and ho
 <br/>
 <br/>
 
-## Anton
-
-<br/>
-<br/>
-
 ## Boat crew
-### x team members maintaining boats
+### Team members maintaining boats
 
 <br/>
 

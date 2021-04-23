@@ -11,4 +11,4 @@
     - [Activities](activies)
     - [Sessions](presentations)
     - [Temples](temples)
-- [Team](funding:team)
+- [Team](team)
