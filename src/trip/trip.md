@@ -1,7 +1,7 @@
 # FreeFlow Nation's Nile Trip 2021
 ## (24th April - 30th April)
 
-![nile_trip](../img_notused/boat2.jpg)
+![nile_trip](./img/boat2.jpg)
 
 ## AGENDA
 

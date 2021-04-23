@@ -54,4 +54,4 @@ As the Michelin star chef, Dave has always been very conscious about food and ho
 
 <br/>
 
-![team](../img_notused/team.jpg)
+![team](./img/team.jpg)
