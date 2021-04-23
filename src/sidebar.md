@@ -7,8 +7,7 @@
     - [Veda1](veda1)
     - [Veda2](veda2)
     - [Veda3](veda3)
-- Trip
-    - [Agenda](trip)
+- [Trip](trip)
     - [Activities](activies)
         - [Yoga & Meditation](yoga_meditation)
         - [Restaurant](restaurant)

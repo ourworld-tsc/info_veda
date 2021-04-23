@@ -4,9 +4,9 @@ Yoga & Meditation is the art of science of systematically observing, accepting, 
 
 Please look at the [session](sessions) to know the time and the location 
 
-![](img/yoga1.jpeg)
+![](img_notused/yoga1.jpeg)
 
-![](img/yoga2.jpeg)
+![](img_notused/yoga2.jpeg)
 
-![](img/yoga3.jpeg)
+![](img_notused/yoga3.jpeg)
 

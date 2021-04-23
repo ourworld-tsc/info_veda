@@ -1,6 +1,6 @@
 # WELCOME TO VEDA
 
-![veda](/src/img/boat3.jpg)
+![veda](/src/img_notused/boat3.jpg)
 
 ## THE MISSION OF VEDA 
 
@@ -17,18 +17,18 @@ We believe that the more conscious people become the more people will stand ing 
 1. Organize consciousness leadership programs and retreats on the Nile for comapanies to shift them in the next consciousness level.
 <br/>
 <br/>
-![team](src/img/team2.jpeg)
+![team](src/img_notused/team2.jpeg)
 <br/>
 <br/>
 2. Offer an organic and green platform for healing trips on the Nile to discover Egypt. Offer high energy and organic food to help to raise your own energy.
 <br/>
 <br/>
-![food](src/img/food.jpg)
+![food](src/img_notused/food.jpg)
 <br/>
 <br/>
 3. Organize detox, meditation and spiritual awakening trips on the Nile.
 <br/>
 <br/>
-![yoga](src/img/yoga2.jpg)
+![yoga](src/img_notused/yoga2.jpg)
 
 

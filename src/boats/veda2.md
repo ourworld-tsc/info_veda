@@ -1,6 +1,6 @@
 # Veda 1 
 
-![](img/veda2.jpeg)
+![](img_notused/veda2.jpeg)
 
 This 45-meter dahabiya is perfect for larger groups, healing retreats, company getaways, and more.
 
