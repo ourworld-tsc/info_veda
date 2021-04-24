@@ -36,9 +36,16 @@ As the Michelin star chef, Dave has always been very conscious about food and ho
 <br/>
 <br/>
 
-## Maher A. Hakeim
+## Maher A Hakeim
 ### Operational Manager
 
+<br/>
+
+![maher_a_hakeim](img/maher_a_hakeim.png)
+
+38 years experience in hotels management in Egypt, USA, Jordan.
+Worked in Sheraton Nile Cruises, Hilton Luxor, Oberoi Nile Cruises, Choice Hotels International, Solaris Nile Cruises, Movenpick Luxor, MS Aurora, Helnan Shepheard Hotel, Solymanwya Golf Resorts Creative Hotels & Resorts, Porto Sokhna & Porto World, Down Town, Hollywood Sharm, and Optima Hotels & Resorts in Egypt. Belle View hotels in Jordan, Pines Manor NJ, Woodbridge Hilton NJ, and Balboa Bay Club CA
+Travel America, NY, A&K Egypt, SAM Tours Egypt.
 
 <br/>
 <br/>
