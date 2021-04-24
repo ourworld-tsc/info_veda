@@ -49,5 +49,4 @@ All the 3 Dahabiyas have a co-working room. Don't hesitate to work with your cur
 
 <br/>
 
-![](img/co_working.png)
 ![](img/co_working2.png)
