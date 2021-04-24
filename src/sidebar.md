@@ -1,6 +1,6 @@
 - [Veda](veda)
-    - [Philosophy](philosophy)
-    - [Do's & Dont's](dos_donts)
+<!--     - [Philosophy](philosophy)
+    - [Do's & Dont's](dos_donts) -->
 - [Boats](boats)
     - [Veda1](veda1)
     - [Veda2](veda2)
@@ -11,6 +11,6 @@
         - [Restaurant]()
         - [Music Bar]()
         - [Co-Working]()
-    - [Sessions](presentations)
+    - [Sessions](sessions)
     - [Temples](temples)
 - [Team](team)
