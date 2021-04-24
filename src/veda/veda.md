@@ -15,7 +15,6 @@
 ![cruises](img/cruises.png)
 
 <br/>
-<br/>
 
 ### Organic food, yoga, green energy
 
@@ -23,7 +22,6 @@
 
 ![food](img/food.png)
 
-<br/>
 <br/>
 
 ### Warm-hearted people and crew
