@@ -1,6 +1,5 @@
 - [Home](readme)
 - [Veda](veda)
-    - [What is Veda](veda_what)
     - [Philosophy](philosophy)
     - [Do's & Dont's](dos_donts)
 - [Boats](boats)
