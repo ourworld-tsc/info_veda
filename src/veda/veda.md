@@ -1,6 +1,6 @@
 # VEDA
 
-## There is no other experience like us on the Nile.
+## There is no other experience like cruising with Dahabiyas on the Nile.
 
 ![veda_trip](img/boat4.jpg)
 
