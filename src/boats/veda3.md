@@ -1,6 +1,6 @@
 # Veda 3
 
-![](img_notused/veda3.jpeg)
+![](img/veda3.jpeg)
 
  cozy 18-meter dahabiya offering a peaceful floating home for smaller groups of people.
 

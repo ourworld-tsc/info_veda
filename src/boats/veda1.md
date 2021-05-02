@@ -1,6 +1,6 @@
 # Veda 1 
 
-![](img_notused/veda1.jpeg)
+![](img/veda1.jpeg)
 
 This beautiful 50-meter dahabiya offers a peaceful organic platform to host your personalised cruise.
 

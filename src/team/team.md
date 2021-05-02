@@ -65,4 +65,4 @@ Travel America, NY, A&K Egypt, SAM Tours Egypt.
 
 <br/>
 
-![team](./img/team.jpg)
+![team](img/team.jpg)
